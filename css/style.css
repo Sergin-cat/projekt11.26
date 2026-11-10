@@ -112,7 +112,7 @@ body {
     color: #FF0000;
 }
 .nav-link:hover .icon {
-    color: #FF0000;
+    fill: #FF0000;
 }
 .nav-item .icon {
    fill: #898989;
