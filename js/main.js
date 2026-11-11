@@ -1,7 +1,7 @@
 const swiper = new Swiper('.channel-slider', {
   // Optional parameters
   loop: true,
-  slidesPerView: 6,
+  slidesPerView: 5,
   // Navigation arrows
   navigation: {
     nextEl: '.channel-button-next',
